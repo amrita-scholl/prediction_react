@@ -1,0 +1,11 @@
+/* App.css */
+.input-group {
+  display: flex;
+  flex-direction: column; /* Stacks children vertically */
+  gap: 10px; /* Space between each element */
+}
+
+.input-group label,
+.input-group input {
+  margin-bottom: 10px; /* Space below each label and input */
+}

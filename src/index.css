@@ -1,0 +1,10 @@
+.input-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.input-group input,
+.input-group label {
+  margin-right: 10px; /* Adjust spacing as needed */
+}
